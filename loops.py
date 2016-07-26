@@ -27,3 +27,9 @@ for x in dez:
         
 for x in range(1,10):
     print x
+    
+x = 10
+
+while x <100:
+    print x*2
+    x+=2
